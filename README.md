@@ -149,10 +149,6 @@ Contributions to this project are welcome! Please follow these guidelines:
 4. Push the branch: `git push origin feature/your-feature-name`
 5. Create a pull request on GitHub.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 *   JSearch API on RapidAPI for providing job listing data.
