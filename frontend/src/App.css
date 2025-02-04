@@ -1,0 +1,19 @@
+/* App.css */
+body {
+  font-family: 'Roboto', sans-serif;
+  line-height: 1.6;
+  color: #fff;
+  background: linear-gradient(135deg, #1a1a1a, #2e2e2e);
+}
+
+.App {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+@media (max-width: 768px) {
+  .App {
+    padding: 1rem;
+  }
+}
